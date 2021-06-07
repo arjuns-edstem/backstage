@@ -10,10 +10,7 @@ metadata:
     bamboo.atlassian.com/deployment-project-id: '227639421'
     newrelic.com/account-id: '1735662'
     newrelic.com/application-name: 'AE Bamboo Prod'
-    newrelic.com/metric-names:
-      - 'Apdex/RequestAttribute/ajax/editParameterisedManualBuild'
-      - 'Apdex'
-      - 'Apdex/RestWebService/dev-status-pull-changes (GET)'
+    newrelic.com/metric-names: 'Apdex/RequestAttribute/ajax/editParameterisedManualBuild,Apdex,Apdex/RestWebService/dev-status-pull-changes (GET)'
 spec:
   type: website
   owner: tech-enablers
