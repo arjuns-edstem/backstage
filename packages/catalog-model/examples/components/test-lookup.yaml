@@ -9,8 +9,7 @@ metadata:
     bamboo.atlassian.com/build-plan-key: AE-QB
     bamboo.atlassian.com/deployment-project-id: '227639421'
     newrelic.com/account-id: '1735662'
-    newrelic.com/application-name: 'AE Bamboo Prod'
-    newrelic.com/metric-names: 'Apdex,Apdex/RestWebService/dev-status-pull-changes (GET)'
+    newrelic.com/application-name: 'AMP Quarterback (Dev)'
 spec:
   type: website
   owner: tech-enablers
