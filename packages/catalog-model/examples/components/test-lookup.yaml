@@ -11,6 +11,7 @@ metadata:
     newrelic.com/account-id: '1735662'
     newrelic.com/application-name: 'AMP Confluence Prod'
     newrelic.com/metric-name: 'Apdex,Apdex/RequestAttribute/accessDenied'
+    goharbor.io/repository-slug: tools-backstage/backstage-fe
 spec:
   type: website
   owner: tech-enablers
