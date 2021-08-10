@@ -11,7 +11,7 @@ metadata:
     newrelic.com/account-id: '1735662'
     newrelic.com/application-name: 'AMP Confluence Prod'
     newrelic.com/metric-names: 'Apdex,Apdex/RequestAttribute/accessDenied'
-    newrelic.com/embedded-charts: '16c63e13-6386-4aa8-b1d3-f947a021f24f,d7b71148-030b-4d8e-8f5f-9a808d7bcd57'
+    newrelic.com/embedded-chart-urls: '16c63e13-6386-4aa8-b1d3-f947a021f24f,d7b71148-030b-4d8e-8f5f-9a808d7bcd57'
     goharbor.io/repository-slug: tools-backstage/backstage-fe
 spec:
   type: website
