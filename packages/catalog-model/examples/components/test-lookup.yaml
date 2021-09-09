@@ -5,8 +5,8 @@ metadata:
   description: platform for improved Developer Experience.
   annotations:
     bitbucket.atlassian.com/repository: BS/telstra-backstage
-    goharbor.io/repository-slug: "tools-backstage/backstage-fe"
-    qameta.io/allure-project: "allure-lambda-test"
+    goharbor.io/repository-slug: tools-backstage/backstage-fe
+    qameta.io/allure-project: allure-lambda-test
     sonarqube.org/project-key: 'com.telstra:quarterback'
   tags:
     - typescript
