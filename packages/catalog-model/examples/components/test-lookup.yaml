@@ -1,20 +1,21 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Quarterback
-  description: Telstra Developer Portal - collaboration platform for improved Developer Experience.
+  name: Test
+  description: platform for improved Developer Experience.
   annotations:
-    goharbor.io/repository-slug: "tools-backstage/backstage-fe"
-    qameta.io/allure-project: allure-lambda-test
     bitbucket.atlassian.com/repository: BS/telstra-backstage
-    backstage.io/techdocs-ref: 'url:https://git02.ae.sda.corp.telstra.com/projects/BS/repos/telstra-backstage/browse/'
-    bamboo.atlassian.com/build-plan-key: AE-QB
-    bamboo.atlassian.com/deployment-project-id: '227639421'
-    newrelic.com/account-id: '1735662'
-    newrelic.com/application-name: 'AMP Confluence Prod'
-    newrelic.com/metric-names: 'Apdex,Apdex/RequestAttribute/accessDenied'
-    newrelic.com/embedded-chart-urls: '16c63e13-6386-4aa8-b1d3-f947a021f24f,d7b71148-030b-4d8e-8f5f-9a808d7bcd57'
+    goharbor.io/repository-slug: "tools-backstage/backstage-fe"
+    qameta.io/allure-project: "allure-lambda-test"
+    sonarqube.org/project-key: 'com.telstra:quarterback'
+  tags:
+    - typescript
+    - nodejs
+    - reactjs
+    - platform
+    - dx
+    - inner-source
 spec:
   type: website
-  owner: tech-enablers
-  lifecycle: experimental
+  owner: Arjun
+  lifecycle: production
