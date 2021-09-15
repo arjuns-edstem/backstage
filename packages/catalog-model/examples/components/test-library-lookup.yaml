@@ -1,0 +1,26 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-library
+  description: NodeJs SDK library for Common Logging Framework
+  tags:
+    - library 
+    - nodejs
+    - javascript
+    - engineering-tool
+  annotations:
+    bitbucket.atlassian.com/repository: 'SRED/clf-node-master'
+    bamboo.atlassian.com/build-plan-key: STOC-CLFNODELIB001
+  links: 
+    - url: https://docs.atlassian.com/bitbucket-server/rest/7.16.0/bitbucket-rest.html
+      title: Bitbucket Rest Reference
+      icon: Link
+    - url: https://git.tools.telstra.com/plugins
+      title: Installed Plugins
+      icon: Link
+    
+spec:
+  type: library
+  lifecycle: production
+  owner: Arjun
+  system: Common Logging Framework
