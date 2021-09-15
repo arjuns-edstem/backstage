@@ -10,7 +10,7 @@ metadata:
     - engineering-tool
   annotations:
     bitbucket.atlassian.com/repository: 'SRED/clf-node-master'
-    bamboo.atlassian.com/build-plan-key: STOC-CLFNODELIB001
+    bamboo.atlassian.com/build-plan-key: AE-QB
   links: 
     - url: https://docs.atlassian.com/bitbucket-server/rest/7.16.0/bitbucket-rest.html
       title: Bitbucket Rest Reference
