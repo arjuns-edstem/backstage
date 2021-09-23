@@ -5,13 +5,10 @@ metadata:
   description: Shuffle API
   tags:
     - go
-  links: 
-    - url: https://docs.atlassian.com/bitbucket-server/rest/7.16.0/bitbucket-rest.html
-      title: Bitbucket Rest Reference
-      icon: Link
-    - url: https://git.tools.telstra.com/plugins
-      title: Installed Plugins
-      icon: Link
+  links:
+    - url: https://git.tools.telstra.com/projects/RIP/repos/svc-o2a-bsi/browse/BSI-swagger.json
+      title: API Wiki
+      icon: Settings
 spec:
   type: service
   lifecycle: production

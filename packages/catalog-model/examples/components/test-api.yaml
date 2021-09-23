@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: business-service-inventory-api
+  name: test-1
   description: The service inventory business API provides a query function that will search and respond with service inventory across multiple systems
   tags:
     - nodejs
