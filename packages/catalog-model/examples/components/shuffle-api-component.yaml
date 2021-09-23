@@ -1,10 +1,17 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: API
 metadata:
   name: shuffle-api
   description: Shuffle API
   tags:
     - go
+  links: 
+    - url: https://docs.atlassian.com/bitbucket-server/rest/7.16.0/bitbucket-rest.html
+      title: Bitbucket Rest Reference
+      icon: Link
+    - url: https://git.tools.telstra.com/plugins
+      title: Installed Plugins
+      icon: Link
 spec:
   type: service
   lifecycle: production
