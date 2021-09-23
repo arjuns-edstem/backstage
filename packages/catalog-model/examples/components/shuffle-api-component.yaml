@@ -17,3 +17,5 @@ spec:
   lifecycle: production
   owner: user:guest
   system: audio-playback
+  definition:
+    $text: https://git.tools.telstra.com/projects/RIP/repos/svc-o2a-bsi/browse/BSI-swagger.json
