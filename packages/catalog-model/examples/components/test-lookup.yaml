@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Test
+  name: Test one
   description: platform for improved Developer Experience.
   annotations:
     bitbucket.atlassian.com/repository: BS/telstra-backstage
