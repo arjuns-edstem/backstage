@@ -7,6 +7,7 @@ metadata:
     bitbucket.atlassian.com/repository: BS/telstra-backstage
     goharbor.io/repository-slug: tools-backstage/backstage-fe
     qameta.io/allure-project: allure-lambda-test
+    telstra.alfabetcloud.com/ability-app-id: app-3328
     sonarqube.org/project-key: 'com.telstra:quarterback'
   tags:
     - typescript
