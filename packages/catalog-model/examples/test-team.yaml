@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: tech-enablers
-  description: Tech Enablers
+  description: Tech Enablers is fun
 spec:
   type: team
   profile:
